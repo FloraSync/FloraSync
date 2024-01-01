@@ -1,2 +1,5 @@
 # FloraSync
-Project Dashboard for the FloraSync project
+
+For general business items like handboook, content websites, roadmap, resources, etc.....  
+
+Largely 'borrowed' from the GitLab Handbook
